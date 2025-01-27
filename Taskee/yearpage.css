@@ -1,0 +1,14 @@
+.container-fluid a img{
+    height: 60px ;
+    width: 190px;
+}
+.navbar{
+    /* background-color: #441752 !important; */
+    background: transparent !important;
+}
+.navbar-nav li a{
+    color: white;
+}
+.overview{
+    background-image: url(images/business-people-checking-appointment-personal-organizer-schedule.jpg) !important;
+}
