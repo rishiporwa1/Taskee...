@@ -1,0 +1,39 @@
+.container{
+    /* background-color: black; */
+    width: 1800px;
+    height: 800px;
+    /* background-image: url( business-people-checking-appointment-personal-organizer-schedule.jpg); */
+    color: white;
+    opacity:100px;
+  }
+
+/* .b1{
+height: 70px;;
+width:400px;
+clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+}  */
+.container-fluid a img{
+height: 60px;
+width: 190px;
+}
+.background{
+background-image: url(images/blurred.jpg) !important;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+.navbar{
+position: relative !important;
+background:rgba(0,0, 0,0.6) !important;
+
+}
+/* .b1{
+border: 1px solid #3498db;
+background: none;
+padding: 10px 20px;
+font-size: 20px;
+font-family: "montserrat";
+cursor: pointer;
+margin: 10px;
+
+}  */
